@@ -1,4 +1,4 @@
-![Frame 2](https://github.com/annamzielinska/annamzielinska/assets/127740866/e3255d9f-b072-4fb0-af14-b1572614d3a7)
+![Frame 2](https://github.com/annamzielinska/annamzielinska/assets/127740866/16be06d2-3475-40bf-9c57-40c4dda4fba7)
 
 <h1 align="center">Hi there! I'm Anna</h1>
 <p align="center"> I'm diving into the world of programming as a full-stack developer. I also have a knack for graphic design, but I'm eager to learn and grow in new ways. I love creating digital experiences that look great and work smoothly. I'm always up for a challenge and excited to see where my skills will take me. Let's build something awesome together!</p>
