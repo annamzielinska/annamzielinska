@@ -1,7 +1,7 @@
 ![Frame 2](https://github.com/annamzielinska/annamzielinska/assets/127740866/e3255d9f-b072-4fb0-af14-b1572614d3a7)
 
-<h1 align="center">Meet Anna,</h1>
-<p align="center">a dynamic individual on a journey to master the digital realm. As a budding full-stack developer, I delve into the intricate world of programming, eagerly absorbing knowledge and honing my skills to craft seamless digital experiences. With a background in graphic design, I bring a keen eye for aesthetics and creativity to my projects, seamlessly blending form and function. Driven by a passion for innovation and a desire to expand my horizons, I embrace challenges with enthusiasm, constantly pushing the boundaries of my abilities. In my quest for mastery, I embody the spirit of lifelong learning, weaving together the artistry of design with the precision of code to shape the future of technology.</p>
+<h1 align="center">Hi there! I'm Anna</h1>
+<p align="center"> I'm diving into the world of programming as a full-stack developer. I also have a knack for graphic design, but I'm eager to learn and grow in new ways. I love creating digital experiences that look great and work smoothly. I'm always up for a challenge and excited to see where my skills will take me. Let's build something awesome together!</p>
 
 
 
