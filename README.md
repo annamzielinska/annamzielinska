@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **CheckedApp**
+- 🔭 I’m currently working on **Angular-App**
 
 
 <h3 align="left">Languages and Tools:</h3>
